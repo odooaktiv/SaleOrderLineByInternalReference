@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of AktivSoftware See LICENSE file for full copyright
-# and licensing details.
+
 {
     'name': "Sale Order Lines by Internal Reference",
     'summary': """
