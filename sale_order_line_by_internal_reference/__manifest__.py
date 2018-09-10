@@ -10,6 +10,7 @@
     """,
     'author': "Aktiv Software",
     'website': "http://www.aktivsoftware.com",
+    'license': "AGPL-3",
     'category': 'Sales',
     'version': '10.0.1.0.0',
     'depends': ['sale'],
