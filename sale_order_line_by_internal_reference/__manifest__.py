@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': "Sale Order Lines by Internal Reference",
+    'name': "Search Product by Internal Reference",
     'summary': """
             Fill Sale Order Lines by Internal Reference of the Product.
              """,
